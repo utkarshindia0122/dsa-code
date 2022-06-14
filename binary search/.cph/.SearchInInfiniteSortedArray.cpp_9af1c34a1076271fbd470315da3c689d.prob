@@ -1,0 +1,1 @@
+{"name":"Local: SearchInInfiniteSortedArray","url":"d:\\placement\\binary search\\SearchInInfiniteSortedArray.cpp","tests":[{"id":1644412377249,"input":"11 10\n3 5 7 9 10 90 100 130 140 160 170","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placement\\binary search\\SearchInInfiniteSortedArray.cpp","group":"local","local":true}

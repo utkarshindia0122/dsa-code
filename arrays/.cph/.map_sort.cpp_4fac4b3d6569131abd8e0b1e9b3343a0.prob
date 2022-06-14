@@ -1,0 +1,1 @@
+{"name":"Local: map_sort","url":"d:\\placement\\arrays\\map_sort.cpp","tests":[{"id":1643035189154,"input":"10\nabc\nsfjh\nsfjh\nsfjh\nbuy\nbuy\nioi\nioi\nabc \nabc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placement\\arrays\\map_sort.cpp","group":"local","local":true}

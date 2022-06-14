@@ -1,0 +1,1 @@
+{"name":"Local: unorderd_map","url":"d:\\placement\\arrays\\unorderd_map.cpp","tests":[{"id":1643123285697,"input":"5\nc 8 k 8 r 7 y 9 u 9\nr","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placement\\arrays\\unorderd_map.cpp","group":"local","local":true}

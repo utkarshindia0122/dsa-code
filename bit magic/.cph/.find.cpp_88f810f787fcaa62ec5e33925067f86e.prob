@@ -1,0 +1,1 @@
+{"name":"Local: find","url":"d:\\placement\\bit magic\\find.cpp","tests":[{"id":1643869792030,"input":"geeksforgeeks\neeksforgeekdg","output":""},{"id":1643870983598,"input":"AACD\nACDA","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placement\\bit magic\\find.cpp","group":"local","local":true}

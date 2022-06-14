@@ -1,0 +1,1 @@
+{"name":"Local: map","url":"d:\\placement\\arrays\\map.cpp","tests":[{"id":1643034360501,"input":"5\nabc 1 \nbcd 3 \nioe 4 \nbnke 6\nifpv 9\nioe","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placement\\arrays\\map.cpp","group":"local","local":true}

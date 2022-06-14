@@ -1,0 +1,1 @@
+{"name":"Local: vector_modified","url":"d:\\placement\\arrays\\vector_modified.cpp","tests":[{"id":1643120161585,"input":"5\n6 7 30 -19 18","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placement\\arrays\\vector_modified.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: alternate_positive_negetive_num","url":"d:\\placement\\arrays\\alternate_positive_negetive_num.cpp","tests":[{"id":1643190638807,"input":"6\n0 1 2 3 -9 -8 \n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placement\\arrays\\alternate_positive_negetive_num.cpp","group":"local","local":true}

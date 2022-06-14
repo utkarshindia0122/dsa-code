@@ -1,0 +1,1 @@
+{"name":"Local: Copy_set_bits_in_a_range","url":"d:\\placement\\bit magic\\Copy_set_bits_in_a_range.cpp","tests":[{"id":1643801105373,"input":"10\n13\n2 3","output":"15"},{"id":1643801170689,"input":"8 7 1 2","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placement\\bit magic\\Copy_set_bits_in_a_range.cpp","group":"local","local":true}
